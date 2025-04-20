@@ -6,11 +6,11 @@ Bu proje, **MRI görüntülerinden beyin tümörü tespiti** amacıyla geliştir
 
 ## Veri Seti
 
-Kullanılan veri seti: **Brain MRI Images for Brain Tumor Detection**  
+Kullanılan veri seti: **BrainTumorClassification**  
 Yapı:
 
 ```
-Brain MRI Images for Brain Tumor Detection/
+BrainTumorClassification/
 ├── yes/    # Tümör içeren MRI görüntüleri
 └── no/     # Tümör içermeyen MRI görüntüleri
 ```
